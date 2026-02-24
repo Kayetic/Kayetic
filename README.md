@@ -2,16 +2,16 @@
 
 tech stack:
 - Next.JS
-- React
 - Typescript
 - SvelteKit
-- Tailwind CSS
 - Flask
+- Hono
+- Motion
 - PostgreSQL
 - SQLite
 - Docker
 
-additional experience with AWS, GCP
+I also have experience with AWS and GCP
 
 
 contact: `contact@bartoszbak.org`
