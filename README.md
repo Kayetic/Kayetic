@@ -3,16 +3,11 @@
 tech stack:
 - Next.JS
 - Typescript
-- SvelteKit
-- Flask
 - Hono
-- Motion
+- (Framer) Motion
 - PostgreSQL
-- SQLite
 - Docker
-
-I also have experience with AWS and GCP
-
+- AWS
 
 contact: `contact@bartoszbak.org`
 <!---
